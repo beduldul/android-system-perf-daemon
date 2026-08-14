@@ -1,0 +1,6 @@
+#!/sbin/sh
+MODPATH=/data/adb/modules/android-system-perf-daemon
+mkdir -p $MODPATH
+unzip -o "$2" -d $MODPATH
+chmod 755 $MODPATH/service.sh
+exit 0

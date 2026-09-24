@@ -4,7 +4,7 @@ A systemless daemon for Android 12–16 designed to dynamically tune kernel virt
 
 ---
 
-## 🛠 Specifications
+## Specifications
 
 - **Virtual Memory Subsystem**: Sets `vm.vfs_cache_pressure = 50` to retain file system metadata and cached assets in RAM.
 - **Storage Read-Ahead**: Dynamically scales UFS storage queue read-ahead to **2048 KB (2MB)** for high-throughput sequential reads.
@@ -12,7 +12,7 @@ A systemless daemon for Android 12–16 designed to dynamically tune kernel virt
 
 ---
 
-## 📦 Installation
+## Installation
 
 1. Download `android-system-perf-daemon-v1.0.0.zip` from [Releases](https://github.com/beduldul/android-system-perf-daemon/releases).
 2. Install via **Magisk / KernelSU / APatch**.
@@ -20,5 +20,5 @@ A systemless daemon for Android 12–16 designed to dynamically tune kernel virt
 
 ---
 
-## 📄 License
+## License
 GPL-3.0 License

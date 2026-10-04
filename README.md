@@ -21,4 +21,4 @@ A systemless daemon for Android 12–16 designed to dynamically tune kernel virt
 ---
 
 ## License
-GPL-3.0 License
+MIT License

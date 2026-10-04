@@ -1,3 +1,4 @@
+[![shellcheck](https://github.com/beduldul/android-system-perf-daemon/actions/workflows/shellcheck.yml/badge.svg)](https://github.com/beduldul/android-system-perf-daemon/actions/workflows/shellcheck.yml)
 # Universal Android System Performance Daemon
 
 A systemless daemon for Android 12–16 designed to dynamically tune kernel virtual memory parameters, storage read-ahead queue limits, and network packet scheduling.
